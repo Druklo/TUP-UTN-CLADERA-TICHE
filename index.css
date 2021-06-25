@@ -5,3 +5,8 @@ h1 {
 body {
     background-color: rgb(71, 71, 71);
 }
+
+h2 {
+    color: red;
+    text-align: center;
+}
