@@ -10,8 +10,8 @@ body {
 }
 
 .logo{
-    margin: 6% 3% 3% 3%;
-    width: 45%;
+    /* margin: 6% 3% 3% 3%; */
+    width: 100%;
 }
 
 .playoff{
@@ -39,10 +39,10 @@ body {
 }
 
 .container{
-    /* margin: auto;
-    background-color: white;
+    margin: 3%;
+    /* background-color: white;
     width: 400px;
-    padding: 30px; */
+    padding: 30px;  */
   }
   
   ul, li {
@@ -52,7 +52,7 @@ body {
   }
   
   ul.slider{
-   
+    position: static;
     /* width: 400px;
     height: 300px; */
   }
@@ -103,3 +103,6 @@ body {
     font-size: 20px;
     border-radius: 100%;
   }
+
+
+  
