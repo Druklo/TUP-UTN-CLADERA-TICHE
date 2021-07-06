@@ -105,4 +105,15 @@ body {
   }
 
 
-  
+.parrafo{
+    color: #D6D2C4;
+    font-family: 'Original Surfer', cursive;
+    margin: 8%;
+    text-align: justify;
+}
+
+.copa{
+  margin: 0% 33% 0% 33%;
+  width: 33%;
+  text-align: center;
+}
