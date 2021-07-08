@@ -145,3 +145,11 @@ body {
 #TituloMap{
   text-align: center;
 }
+
+ul.playoff{
+  text-align: center;
+}
+
+a.btn btn-secondary{
+  margin: 5%;
+}
