@@ -135,3 +135,13 @@ body {
   width: 80%;
   text-align: center;
 }
+
+/* Tamaño del mapa */
+#map {
+	height: 500px;
+	width: 100%;
+}
+
+#TituloMap{
+  text-align: center;
+}
